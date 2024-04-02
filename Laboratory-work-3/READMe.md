@@ -115,20 +115,21 @@
 
 Рис. 25 - Фрагмент екрану з рішення завдання 2.5.1 "Отримати перелік каталогів для швидкого пошуку файлів, які можуть виконуватися в командному рядку без вказування повного шляху до файлу, враховуючи, що кожну назву каталогу необхідно вивести в окремому рядку, наприклад, рядок з каталогами /c/user1/:/c/user2/ необхідно перетворити на два окремі рядки /c/user1/ та /c/user1/;"
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/34d2c35e-afb2-425f-b213-a9ddc491668e)
+![-1](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/1c2f4968-08ae-454c-9f32-837d8ad55105)
 
 Рис. 26 - Фрагмент екрану з рішення завдання 2.5.2 "Змінити рішення попереднього завдання так, щоб всі назви каталогів були в окремих рядках, наприклад, рядок з каталогами /c/user1/:/c/user2/ необхідно перетворити на чотири окремі рядки c, user1, c, user2"
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/75149e13-4fe6-4d03-a1f6-b72440a8df20)
+![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/3f5c1fef-5bc0-4f8f-9f47-df9b723324a3)
 
 Рис. 27 - Фрагмент екрану з рішення завдання 2.5.3 "Змінити рішення попереднього завдання, впорядкувавши значення назв каталогів за зростанням та видаливши всі дублікати цих назв;"
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/b8e182d9-47a2-4369-abd4-9d9338ade987)
+![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/28a7a634-4212-4da3-a491-38f9a35baa3d)
 
 Рис. 28 - Фрагмент екрану з рішення завдання 2.5.4 "Змінити рішення попереднього завдання, визначивши лише перші 5 назв каталогів;"
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/2164298a-86c5-4cf7-964e-0e78026061be)
+![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/d1342be3-9c56-4d5a-8a75-8ed51ce02881)
 
 Рис. 29 - Фрагмент екрану з рішення завдання 2.5.5 "Провести статистичний аналіз результату завдання 2.5.3, отримавши кількість каталогів та розмір найбільшої назви каталогу."
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/b99ff4dd-b81b-4b81-aeb6-9dfb883c129b)
+![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/e681b198-6a7f-489a-847b-6ff06e28a6c4)
+
