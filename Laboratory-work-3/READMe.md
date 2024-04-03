@@ -11,7 +11,7 @@
 
 Рис. 3 - Фрагмент екрану з рішення завдання 2.1.1.3 "Створити каталог з назвою «Laboratory-work-3». Перейти до каталогу."
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/dabe0acf-4548-46c0-8b50-66052fc9ec38)
+![ккккккккккккккккк](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/9f193da0-f6e5-4d59-9b7f-0bfbc8f20395)
 ![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/d093fdfa-d543-4a06-9028-227f7791c52d)
 
 Рис. 4 - Фрагмент екрану з рішення завдання 2.1.1.3 "В каталозі «Laboratory-work-3» створити порожній файл README.md, використовуючи команду інтерпретатору командного рядку Bash."
@@ -50,7 +50,7 @@
 - відображення списку файлів у псевдо табличному форматі;
 - впорядкування порядку слідування файлів за убуванням їх розміру."
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/c61e90b6-7059-4d66-a9d4-47704d90af76)
+![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/8a7dabcf-4d64-4eb6-8251-dd6b207e1aa1)
 
 Рис. 12 - Фрагмент екрану з рішення завдання 2.2.5 "Повернутися до каталогу, використовуючи команду швидкого повернення."
 
