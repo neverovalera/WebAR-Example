@@ -67,6 +67,7 @@
 
 Рис. 9 - Фрагмент екрану з рішення завдання 2.3.4 "Видалити іменований канал."
 
-![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/94a9783d-f3bd-49c7-a308-aeb4f9435d00)
+![image](https://github.com/neverovalera/WebAR-Optical-telegraph/assets/162915351/fe8c688f-c3a7-4b67-8eb5-97faf2649886)
+
 
 
